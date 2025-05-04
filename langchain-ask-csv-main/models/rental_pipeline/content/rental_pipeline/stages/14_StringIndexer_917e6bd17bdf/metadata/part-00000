@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1743419371970,"sparkVersion":"3.5.5","uid":"StringIndexer_917e6bd17bdf","paramMap":{"outputCol":"IT Hub Present_Index","handleInvalid":"keep","inputCol":"IT Hub Present"},"defaultParamMap":{"outputCol":"StringIndexer_917e6bd17bdf__output","stringOrderType":"frequencyDesc","handleInvalid":"error"}}

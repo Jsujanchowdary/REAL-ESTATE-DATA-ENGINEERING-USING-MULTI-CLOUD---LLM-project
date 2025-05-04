@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1743419308642,"sparkVersion":"3.5.5","uid":"OneHotEncoder_ea70c8aec82a","paramMap":{"outputCol":"Furnishing_OHE","inputCol":"Furnishing_Index"},"defaultParamMap":{"dropLast":true,"handleInvalid":"error","outputCol":"OneHotEncoder_ea70c8aec82a__output"}}

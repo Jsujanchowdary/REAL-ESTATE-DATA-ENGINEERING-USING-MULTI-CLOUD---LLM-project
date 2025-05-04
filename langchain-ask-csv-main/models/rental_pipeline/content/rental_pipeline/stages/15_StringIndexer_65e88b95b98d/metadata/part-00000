@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1743419372358,"sparkVersion":"3.5.5","uid":"StringIndexer_65e88b95b98d","paramMap":{"outputCol":"Swimming Pool_Index","inputCol":"Swimming Pool","handleInvalid":"keep"},"defaultParamMap":{"outputCol":"StringIndexer_65e88b95b98d__output","stringOrderType":"frequencyDesc","handleInvalid":"error"}}

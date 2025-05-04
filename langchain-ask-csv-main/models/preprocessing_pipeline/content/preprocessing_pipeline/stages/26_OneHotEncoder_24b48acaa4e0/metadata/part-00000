@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1743419307898,"sparkVersion":"3.5.5","uid":"OneHotEncoder_24b48acaa4e0","paramMap":{"outputCol":"Convention Hall_OHE","inputCol":"Convention Hall_Index"},"defaultParamMap":{"dropLast":true,"handleInvalid":"error","outputCol":"OneHotEncoder_24b48acaa4e0__output"}}

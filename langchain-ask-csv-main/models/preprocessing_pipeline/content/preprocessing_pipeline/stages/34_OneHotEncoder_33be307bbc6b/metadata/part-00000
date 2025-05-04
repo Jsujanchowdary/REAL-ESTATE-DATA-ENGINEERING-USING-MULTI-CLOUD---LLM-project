@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1743419309855,"sparkVersion":"3.5.5","uid":"OneHotEncoder_33be307bbc6b","paramMap":{"outputCol":"IT Hub Present_OHE","inputCol":"IT Hub Present_Index"},"defaultParamMap":{"outputCol":"OneHotEncoder_33be307bbc6b__output","dropLast":true,"handleInvalid":"error"}}

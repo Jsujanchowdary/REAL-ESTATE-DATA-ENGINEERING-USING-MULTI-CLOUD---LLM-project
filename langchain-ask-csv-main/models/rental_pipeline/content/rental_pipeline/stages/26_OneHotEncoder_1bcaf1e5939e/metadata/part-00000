@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1743419375956,"sparkVersion":"3.5.5","uid":"OneHotEncoder_1bcaf1e5939e","paramMap":{"inputCol":"Water Supply_Index","outputCol":"Water Supply_OHE"},"defaultParamMap":{"dropLast":true,"handleInvalid":"error","outputCol":"OneHotEncoder_1bcaf1e5939e__output"}}

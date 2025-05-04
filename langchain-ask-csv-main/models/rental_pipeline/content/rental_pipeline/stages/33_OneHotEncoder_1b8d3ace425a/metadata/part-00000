@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1743419377283,"sparkVersion":"3.5.5","uid":"OneHotEncoder_1b8d3ace425a","paramMap":{"outputCol":"Swimming Pool_OHE","inputCol":"Swimming Pool_Index"},"defaultParamMap":{"handleInvalid":"error","outputCol":"OneHotEncoder_1b8d3ace425a__output","dropLast":true}}

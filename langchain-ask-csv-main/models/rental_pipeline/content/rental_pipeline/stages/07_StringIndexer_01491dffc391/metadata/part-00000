@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1743419369714,"sparkVersion":"3.5.5","uid":"StringIndexer_01491dffc391","paramMap":{"inputCol":"Parking","outputCol":"Parking_Index","handleInvalid":"keep"},"defaultParamMap":{"outputCol":"StringIndexer_01491dffc391__output","stringOrderType":"frequencyDesc","handleInvalid":"error"}}

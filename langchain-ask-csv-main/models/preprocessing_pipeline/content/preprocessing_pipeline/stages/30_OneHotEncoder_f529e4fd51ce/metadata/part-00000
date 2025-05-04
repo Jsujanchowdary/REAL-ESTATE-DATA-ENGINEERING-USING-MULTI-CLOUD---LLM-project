@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1743419308852,"sparkVersion":"3.5.5","uid":"OneHotEncoder_f529e4fd51ce","paramMap":{"inputCol":"Flooring Type_Index","outputCol":"Flooring Type_OHE"},"defaultParamMap":{"dropLast":true,"outputCol":"OneHotEncoder_f529e4fd51ce__output","handleInvalid":"error"}}

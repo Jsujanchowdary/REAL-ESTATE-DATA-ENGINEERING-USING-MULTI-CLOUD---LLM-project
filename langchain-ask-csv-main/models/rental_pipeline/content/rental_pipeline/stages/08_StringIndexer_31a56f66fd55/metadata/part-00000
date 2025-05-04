@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1743419369938,"sparkVersion":"3.5.5","uid":"StringIndexer_31a56f66fd55","paramMap":{"outputCol":"Water Supply_Index","handleInvalid":"keep","inputCol":"Water Supply"},"defaultParamMap":{"outputCol":"StringIndexer_31a56f66fd55__output","handleInvalid":"error","stringOrderType":"frequencyDesc"}}

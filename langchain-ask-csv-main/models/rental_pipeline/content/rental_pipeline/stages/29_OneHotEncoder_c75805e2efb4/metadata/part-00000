@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1743419376458,"sparkVersion":"3.5.5","uid":"OneHotEncoder_c75805e2efb4","paramMap":{"outputCol":"Roof Type_OHE","inputCol":"Roof Type_Index"},"defaultParamMap":{"dropLast":true,"outputCol":"OneHotEncoder_c75805e2efb4__output","handleInvalid":"error"}}

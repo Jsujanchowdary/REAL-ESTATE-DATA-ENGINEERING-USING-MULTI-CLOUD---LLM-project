@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1743419375011,"sparkVersion":"3.5.5","uid":"OneHotEncoder_3be8972e2c5b","paramMap":{"outputCol":"Gym_OHE","inputCol":"Gym_Index"},"defaultParamMap":{"dropLast":true,"outputCol":"OneHotEncoder_3be8972e2c5b__output","handleInvalid":"error"}}

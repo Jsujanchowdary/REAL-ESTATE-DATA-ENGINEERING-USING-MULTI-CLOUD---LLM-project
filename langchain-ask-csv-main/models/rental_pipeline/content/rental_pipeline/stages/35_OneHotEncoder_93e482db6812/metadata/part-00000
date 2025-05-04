@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1743419377755,"sparkVersion":"3.5.5","uid":"OneHotEncoder_93e482db6812","paramMap":{"inputCol":"Sewer System_Index","outputCol":"Sewer System_OHE"},"defaultParamMap":{"handleInvalid":"error","dropLast":true,"outputCol":"OneHotEncoder_93e482db6812__output"}}
