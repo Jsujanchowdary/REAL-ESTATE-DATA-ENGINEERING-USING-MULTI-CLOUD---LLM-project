@@ -41,8 +41,7 @@ Replace `YOUR_VIDEO_ID` with your actual YouTube video ID.
 
 ### 📊 Architecture
 
-![Architecture](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/architecture_diagram.png) <sub>*(Upload `architecture_diagram.png` to your repo first if you have it in your report)*</sub>
-
+![Architecture](https://github.com/Jsujanchowdary/REAL-ESTATE-DATA-ENGINEERING-USING-MULTI-CLOUD---LLM-project/blob/main/FLOW_DIA.png) 
 ---
 
 ### 📂 Project Structure
@@ -60,31 +59,17 @@ Replace `YOUR_VIDEO_ID` with your actual YouTube video ID.
 
 ---
 
-### 🚀 How to Run
-
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/real-estate-ai-platform.git
-   cd real-estate-ai-platform
+   git clone https://github.com/Jsujanchowdary/REAL-ESTATE-DATA-ENGINEERING-USING-MULTI-CLOUD---LLM-project.git
+   cd REAL-ESTATE-DATA-ENGINEERING-USING-MULTI-CLOUD---LLM-project
    ```
 
 2. Install dependencies:
 
    ```bash
    pip install -r requirements.txt
-   ```
-
-3. Run the app:
-
-   ```bash
-   streamlit run streamlit_customer_app.py
-   ```
-
-4. (Optional) To use the owner dashboard:
-
-   ```bash
-   streamlit run streamlit_owner_app.py
    ```
 
 ---
@@ -119,7 +104,7 @@ Replace `YOUR_VIDEO_ID` with your actual YouTube video ID.
 
 ### 📚 Project Report
 
-Refer to the full PDF report [here](./realstate_project_report.pdf) for technical details and implementation explanation.
+Refer to the full PDF report [here](https://github.com/Jsujanchowdary/REAL-ESTATE-DATA-ENGINEERING-USING-MULTI-CLOUD---LLM-project/blob/main/ADP_Project_029%20(2).pdf) for technical details and implementation explanation.
 
 ---
 
