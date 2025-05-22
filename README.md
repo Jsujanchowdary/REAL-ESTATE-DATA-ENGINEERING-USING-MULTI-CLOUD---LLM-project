@@ -11,8 +11,6 @@
 
 [![Watch the video](https://img.youtube.com/vi/JA1kmpehzBM?si=tJ0FdqtEcheyiEew/0.jpg)](https://www.youtube.com/watch?v=JA1kmpehzBM?si=tJ0FdqtEcheyiEew)
 
-Replace `YOUR_VIDEO_ID` with your actual YouTube video ID.
-
 ---
 
 ### 📌 Features
