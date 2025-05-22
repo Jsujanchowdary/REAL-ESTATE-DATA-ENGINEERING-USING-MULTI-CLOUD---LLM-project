@@ -111,7 +111,6 @@ Refer to the full PDF report [here](https://github.com/Jsujanchowdary/REAL-ESTAT
 * Jujjavarapu Sujan Chowdary
 * Gandam Sai Ram
 * Dileep Sai Ande
-* Naveen Kumar Reddy
 
 Under the guidance of **Dr. S. Prabakeran**, SRM IST
 
