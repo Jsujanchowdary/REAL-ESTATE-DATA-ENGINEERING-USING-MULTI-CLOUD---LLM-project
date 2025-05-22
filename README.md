@@ -9,7 +9,7 @@
 
 ### 📽️ Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=JA1kmpehzBM?si=tJ0FdqtEcheyiEew)
+[![Watch the video](https://img.youtube.com/vi/JA1kmpehzBM?si=tJ0FdqtEcheyiEew/0.jpg)](https://www.youtube.com/watch?v=JA1kmpehzBM?si=tJ0FdqtEcheyiEew)
 
 Replace `YOUR_VIDEO_ID` with your actual YouTube video ID.
 
