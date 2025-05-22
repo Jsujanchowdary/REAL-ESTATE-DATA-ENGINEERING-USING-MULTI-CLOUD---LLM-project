@@ -9,7 +9,7 @@
 
 ### 📽️ Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/JA1kmpehzBM?si=tJ0FdqtEcheyiEew/0.jpg)](https://www.youtube.com/watch?v=JA1kmpehzBM?si=tJ0FdqtEcheyiEew)
+[![Watch the video](https://img.youtube.com/vi/JA1kmpehzBM/0.jpg)](https://www.youtube.com/watch?v=JA1kmpehzBM)
 
 ---
 
@@ -114,6 +114,3 @@ Refer to the full PDF report [here](https://github.com/Jsujanchowdary/REAL-ESTAT
 
 Under the guidance of **Dr. S. Prabakeran**, SRM IST
 
----
-
-Would you like me to generate the `README.md` file and upload it here directly for convenience?
